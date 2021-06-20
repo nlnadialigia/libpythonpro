@@ -13,4 +13,8 @@ iniconfig==1.1.1
 attrs==21.2.0
 pyparsing==2.4.7
 
+# Converage
+coverage==5.5
+pytest-cov==2.12.1
+
 -r requirements.txt

@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.com/nlnadialigia/libpythonpro.svg?branch=main)](https://travis-ci.com/nlnadialigia/libpythonpro)
 [![Updates](https://pyup.io/repos/github/nlnadialigia/libpythonpro/shield.svg)](https://pyup.io/repos/github/nlnadialigia/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/nlnadialigia/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/nlnadialigia/libpythonpro/)
+[![codecov](https://codecov.io/gh/nlnadialigia/libpythonpro/branch/main/graph/badge.svg?token=D36QAFF6PI)](https://codecov.io/gh/nlnadialigia/libpythonpro)
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
